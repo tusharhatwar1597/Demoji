@@ -3,6 +3,9 @@ This is my first file
 <head>
 this is head
 </head>
+<body>
+this is body  You can play with it !
 
+</body>
 
 </HTML>
